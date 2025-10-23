@@ -118,12 +118,6 @@ I believe in designing **scalable, resilient, and intelligent** systems that ada
 
 ---
 
-## 🐍 Animated Contribution Snake
-
-![snake gif](https://github.com/YashPandey1405/YashPandey1405/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💬 Connect With Me
 
 <p align="center">
@@ -135,15 +129,5 @@ I believe in designing **scalable, resilient, and intelligent** systems that ada
 ---
 
 <h3 align="center">🚀 "Code. Design. Scale. Repeat." 🚀</h3>
-
----
-
-### 🧩 Setup Tips for Dynamic Effects
-
-To make everything auto-update:
-
-1. **Snake Animation** → use the workflow I shared earlier.
-2. **GitHub Stats & Graphs** update automatically.
-3. You can add a **custom animated banner (GIF)** hosted in your repo’s `/assets` folder for that modern top look.
 
 ---
