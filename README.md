@@ -42,43 +42,6 @@ I believe in designing **scalable, resilient, and intelligent** systems that ada
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗂️ [TaskNexus](https://github.com/YashPandey1405/TaskNexus)
-
-> A **MERN-based Kanban System** with drag-drop UI, JWT Auth, File Uploads, and Role Control.  
-> Secure, modular, and deployed via Render + Vercel.
-
-🧰 **Stack:** React, Node.js, Express, MongoDB, Zustand, TanStack Router  
-🎯 **Focus:** Modular REST APIs • Secure Authentication • Email Automation
-
----
-
-### ⚙️ [System Design Journey](https://github.com/YashPandey1405/System-Design-Journey)
-
-> Collection of **scalable backend architectures** — Redis Pub/Sub, BullMQ, Kafka, AWS EC2 deployments.  
-> Deployed horizontally scalable WebSocket clusters via **Caddy + PM2**.
-
-💡 **Focus:** Event-driven Architecture • Load Balancing • Horizontal Scaling
-
----
-
-### 🤖 [GenAI Learning Journey](https://github.com/YashPandey1405/Perplexa-AI)
-
-> Advanced **Agentic AI workflows** using LangChain → OpenAI Agent SDK.  
-> Integrated **RAG**, **Neo4j memory**, and **real-time conversational AI** via WebRTC.
-
-🧠 **Focus:** LLM Guardrails • Context Retention • Multi-Agent Collaboration
-
----
-
-### 📊 [AIML Mastery Path](https://github.com/YashPandey1405/AIML-Mastery-Path)
-
-> Organized AI/ML repository featuring Statistics → DL → TensorFlow projects.  
-> Focused on reproducible experiments, modular EDA, and notebook clarity.
-
----
-
 ## 🧩 Expertise Map
 
 ✅ **Backend Engineering** – REST APIs, Auth, Databases, Code Structuring  
