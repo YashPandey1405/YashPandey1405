@@ -71,16 +71,6 @@ I believe in designing **scalable, resilient, and intelligent** systems that ada
 
 ---
 
-## 🔥 Activity Graph
-
-<div align="center">
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashPandey1405&bg_color=0d1117&color=58a6ff&line=00aeff&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 💬 Connect With Me
 
 <p align="center">
@@ -88,9 +78,3 @@ I believe in designing **scalable, resilient, and intelligent** systems that ada
   <a href="mailto:pandeyyash041@gmail.com"><img src="https://img.shields.io/badge/Gmail-pandeyyash041@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://leetcode.com/u/pandeyyash041/"><img src="https://img.shields.io/badge/LeetCode-Yash%20Pandey-FFA116?style=for-the-badge&logo=leetcode" /></a>
 </p>
-
----
-
-<h3 align="center">🚀 "Code. Design. Scale. Repeat." 🚀</h3>
-
----
